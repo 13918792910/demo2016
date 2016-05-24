@@ -1,0 +1,16 @@
+http://idea.qinxi1992.cn
+
+The key fingerprint is:
+SHA256:jDp/oWesaS+sRYl3V5e6TG+bt9FRbJywe0+QrpQyk7o 2686509362@qq.com
+The key's randomart image is:
++---[RSA 2048]----+
+|             .   |
+|              o=.|
+|            ..=.=|
+|     . +   o =.o.|
+|    . = S * =..o.|
+|     + ..o B +..+|
+|    o..o..  + o.o|
+|     +=.=.   . oo|
+|    .o+BE     oo.|
++----[SHA256]-----+
